@@ -1,6 +1,6 @@
 # Editor-de-Texto em C#
 
-Projeto (console) de um editor de texto desenvoldo em C#.
+Projeto (console) de um editor de texto desenvolvido em C#.
 Contem as funcionalidades de criar um arquivo de texto, redigir a informação e consequentemente salvar o texto no arquivo.
 <br />
 <br />
